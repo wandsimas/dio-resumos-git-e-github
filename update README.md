@@ -7,9 +7,9 @@ Repositorio para armazenar resumos sobre Git e GitHub do curso versionamento de 
 - [Documentação Github](https://docs.github.com/pt/get-started)
 
 ## Resumo das Aulas
-| Aulas | Resumos|
+| Aula1 | Resumos|
 |-------|-------|
-| Gravando Alterações no Repositorio Local | [Resumos](github)|
+| Aula 2 | [Resumos](github)|
 
 ```
 git init
@@ -17,3 +17,4 @@ git init
 
  ## Referencias 
  [Digital innovation one]().
+ 
